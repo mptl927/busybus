@@ -70,3 +70,13 @@ h5 {
   color:red;
   font-size: 10px;
 }
+.bus-names {
+ display: inline-block;
+ float: left;
+ width: 75%;
+}
+.bus-times {
+ display: inline-block;
+ float: right;
+ width: 25%;
+}
