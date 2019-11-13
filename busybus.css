@@ -8,6 +8,7 @@ body {
 }
 .arrow-left {
   float: left;
+  width: 5%;
 }
 
 .location {
@@ -40,8 +41,8 @@ nav {
   font-size: 16px;
   margin: 0px;
   text-align: center;
-  background-color: whitesmoke;
-  padding: 20px;
+  background-color: #EDEDEE;
+  padding: 10px;
 }
 h1 {
   font-size: 16px;
@@ -60,7 +61,7 @@ hr {
   height: 1px;
 }
 h4 {
-  margin: 3px;
+  margin: 7px;
   text-transform: uppercase;
   color:limegreen;
 }
