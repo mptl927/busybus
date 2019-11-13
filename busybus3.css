@@ -1,0 +1,49 @@
+body {
+  background-color: darkgrey;
+  font-family:sans-serif;
+  font-size: 10px;
+}
+.container {
+  margin: 10px auto;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: white;
+}
+.container:hover {
+  background-color:orchid;
+}
+
+.bus-route {
+  position: relative;
+  left: 5%;
+}
+
+.bus-route-title {
+  color: green;
+  position: relative;
+}
+
+.bus-line {
+  position: relative;
+}
+.bus-line:hover {
+  background-color:pink;
+}
+
+.bus-line-number {
+  position: relative;
+  left: 0%;
+  top: 10%;
+}
+
+.bus-line-destination {
+  position: relative;
+  left: 20%;
+  top: 10%;
+}
+
+.bus-line-frequency {
+  position: relative;
+  left: 50%;
+  top: 10%;
+}
