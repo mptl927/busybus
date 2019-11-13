@@ -18,7 +18,7 @@ body {
   height: 120px;
 }
 .content {
-  width: 90%;
+  width: 80%;
   float: left;
   margin-top: 8px;
 }
@@ -27,8 +27,7 @@ body {
 }
 .arrow {
   float: right;
-  width:6%;
-  margin-bottom: 50px;
+  width:5%;
 }
 .container {
   margin: 10px auto;
@@ -36,17 +35,19 @@ body {
   margin-top: 70px;
 }
 nav {
-  position: absolute;
+  position:relative;
   width: 420px;
-  text-transform: uppercase;
   font-style: sans-serif;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
+  margin: 0px;
+  text-align: center;
 }
 h1 {
   font-size: 16px;
   font-weight: bold;
   margin: 3px;
+  margin-bottom: 7px;
 }
 h3 {
   font-size: 14px;
