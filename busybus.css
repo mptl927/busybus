@@ -35,6 +35,10 @@ body {
   float:right;
   width: 3%;
 }
+.searchbar {
+  background-color:#FFFFFF;
+  padding: 10px;
+}
 .location:hover {
   background-color:orchid;
 }
