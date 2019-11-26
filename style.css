@@ -103,7 +103,6 @@ h5 {
   color:#FF0000;
   font-size:11px;
   width: 90%;
-
 }
 
 .bus-route {
@@ -124,11 +123,12 @@ h5 {
   top:-15px;
   margin-left: 10px;
   margin-top: 10px;
+
 }
 .busroute-name {
   display: inline-block;
   width: 70%;
-  padding-left:40px;
+  padding-left:50px;
 }
 .busroute-number-one {
   background-color:rgba(86, 204, 242, 0.6);
